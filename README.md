@@ -1,1 +1,1 @@
-https://memory-game253.github.io/MathJaX-TeX-Runner/
+https://magnetar253.github.io/MathJaX-TeX-Runner/
